@@ -50,4 +50,4 @@ Here are a few suggestions on what to do next if you're new to Netlify visual ed
 
 ## Support
 
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+If you get stuck along the way, get help in our [support forums](https://O_P_Hacker).
